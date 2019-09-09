@@ -8,6 +8,7 @@
     "brace-expansion": "^1.1.6",
     "csv-line": "^1.2.0",
     "is-it-weekend": "^1.0.0",
+    "lodash": "^4.17.15",
     "minimist": "^1.2.0",
     "mostly-working-hours": "^1.0.0",
     "request": "^2.79.0",
